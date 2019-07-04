@@ -9,6 +9,9 @@ This library provides a basic implementation of an interval tree using C++ templ
 The demo is implemented in the c++11 language, the use and compilation is simple.
 Copy all the code from intervaltree.cpp and paste it into your favorite program, compile and go.
 
+## Dependencies (windows)
+g++ 11 and graphviz
+
 ## Author
 Elvis David Minaya Mamani
 eminayama@ulasalle.edu.pe
