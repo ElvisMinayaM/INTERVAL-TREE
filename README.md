@@ -2,6 +2,7 @@
 
 ## Overview
 An interval tree can be used to efficiently find a set of numeric intervals overlapping or containing another interval.
+The idea is to create a binary search tree (BST) with automatic balance such as the red black tree, the AVL tree, etc. to maintain the set of intervals so that all operations can be performed in O-time (log n)
 
 This library provides a basic implementation of an interval tree using C++ templates, a presentation (.pptx) developing step-by-step methods to add; delete;search; computational cost, use cases.
 
