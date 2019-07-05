@@ -12,6 +12,13 @@ Copy all the code from intervaltree.cpp and paste it into your favorite program,
 ## Dependencies (windows)
 g++ 11 and graphviz
 
+## Contributions
+### Implementation and theory
+* Part of the implementation and the theory for the basic guide of the code was from the page: Geeks for Geeks
+* Wikipedia
+* Interval Tree in Data Structure - Includehelp.com
+* Interval Trees - DGP
+
 ## Author
 Elvis David Minaya Mamani
 eminayama@ulasalle.edu.pe
