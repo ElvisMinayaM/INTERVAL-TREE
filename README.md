@@ -12,7 +12,7 @@ Copy all the code from intervaltree.cpp and paste it into your favorite program,
 
 ## Build and Run
 Compilation instruction:
-g++ interval.cpp -o interval.exe
+g++ interval.cpp -o interval.exe                 
 Finally execute:
 interval.exe
     
